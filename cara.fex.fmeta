@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rootObject _jt="IBFSMRObject" appName="mhironaka" binary="false" defaultLng="ja_JP" dummy="false" expireDate="0" length="0" type="FexFile">
     <properties size="2">
-        <entry key="LastDescribed" value="1622080422089"/>
+        <entry key="LastDescribed" value="1622080840527"/>
         <entry key="tool" value="editor"/>
     </properties>
-    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="0"/>
     <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
         <entry>
             <key _jt="string" value="ja_JP"/>
